@@ -17,6 +17,7 @@ The primary screen where users can view all the products available. A floating a
 - **Splash Screen:** Splash Screen API
 - **Navigation:** Navigation Component
 - **Architecture:** Single Activity with MVVM
+- **Photos:** Photo Picker
 
 ### Additional Components
 - **Constants Handling**: Utilizes enums for handling constants throughout the application.
