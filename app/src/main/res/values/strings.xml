@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SwipeMart</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_for_anything_you_like">Search for anything you like</string>
+    <string-array name="options_array">
+        <item>pegg pugg</item>
+        <item>daaru shaaru</item>
+        <item>set sutt</item>
+        <item>bhand bhund</item>
+        <item>high hooi</item>
+    </string-array>
+</resources>
