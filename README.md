@@ -18,6 +18,11 @@ The primary screen where users can view all the products available. A floating a
 - **Navigation:** Navigation Component
 - **Architecture:** Single Activity with MVVM
 
+### Additional Components
+- **Constants Handling**: Utilizes enums for handling constants throughout the application.
+- **Event Handling**: Implements EventWrapper for efficient handling of events and state changes.
+- **Extension Functions**: Leverages extension functions for extending classes and providing utility methods, including handling Snackbars and Toasts.
+
 ## Usage
 
 1. **Adding a Product:**
